@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Daniela 👋</h1>
+<h3 align="center">Software Developer · Frontend & UX/UI</h3>
 
-<!--
-**DanielaOM24/DanielaOM24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Creo experiencias digitales con código y diseño ✨
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Sobre mí
+- 💻 Software Developer enfocada en frontend y diseño visual  
+- 🎨 Interesada en UX/UI y React Native  
+- 🚀 Me gusta construir interfaces limpias, bonitas y funcionales  
+
+---
+
+### 🛠️ Tecnologías
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,node,python,mongodb,mysql,git" />
+</p>
+
+---
+
+### 📌 Proyectos destacados
+- 🔹 Proyecto SPA con autenticación y roles  
+- 🔹 Apps con React y TypeScript  
+- 🔹 CRUDs y consumo de APIs REST  
+
+---
+
+### 🌐 Encuéntrame
+<p>
+  <a href="https://github.com/DanielaOM24">GitHub</a>
+</p>
