@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Daniela 🌷</h1>
-<h3 align="center">Desarrolladora de Software · Frontend · UX/UI</h3>
+<h3 align="center">Desarrolladora de Software · Frontend </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&pause=1500&color=E8A1C4&center=true&vCenter=true&width=520&lines=Creo+interfaces+bonitas+y+funcionales" />
